@@ -1,0 +1,112 @@
+﻿  maths_funcs.cpp
+C:\Users\zahab\Desktop\Rendering\TransmittanceEffects\TransmittanceEffects\maths_funcs.cpp(132,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\zahab\Desktop\Rendering\TransmittanceEffects\TransmittanceEffects\maths_funcs.cpp(250,33): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\zahab\Desktop\Rendering\TransmittanceEffects\TransmittanceEffects\maths_funcs.cpp(254,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\zahab\Desktop\Rendering\TransmittanceEffects\TransmittanceEffects\maths_funcs.cpp(255,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\zahab\Desktop\Rendering\TransmittanceEffects\TransmittanceEffects\maths_funcs.cpp(255,14): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\zahab\Desktop\Rendering\TransmittanceEffects\TransmittanceEffects\maths_funcs.cpp(430,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\zahab\Desktop\Rendering\TransmittanceEffects\TransmittanceEffects\maths_funcs.cpp(432,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\zahab\Desktop\Rendering\TransmittanceEffects\TransmittanceEffects\maths_funcs.cpp(433,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\zahab\Desktop\Rendering\TransmittanceEffects\TransmittanceEffects\maths_funcs.cpp(434,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\zahab\Desktop\Rendering\TransmittanceEffects\TransmittanceEffects\maths_funcs.cpp(435,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\zahab\Desktop\Rendering\TransmittanceEffects\TransmittanceEffects\maths_funcs.cpp(442,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\zahab\Desktop\Rendering\TransmittanceEffects\TransmittanceEffects\maths_funcs.cpp(444,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\zahab\Desktop\Rendering\TransmittanceEffects\TransmittanceEffects\maths_funcs.cpp(445,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\zahab\Desktop\Rendering\TransmittanceEffects\TransmittanceEffects\maths_funcs.cpp(446,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\zahab\Desktop\Rendering\TransmittanceEffects\TransmittanceEffects\maths_funcs.cpp(447,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\zahab\Desktop\Rendering\TransmittanceEffects\TransmittanceEffects\maths_funcs.cpp(454,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\zahab\Desktop\Rendering\TransmittanceEffects\TransmittanceEffects\maths_funcs.cpp(456,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\zahab\Desktop\Rendering\TransmittanceEffects\TransmittanceEffects\maths_funcs.cpp(457,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\zahab\Desktop\Rendering\TransmittanceEffects\TransmittanceEffects\maths_funcs.cpp(458,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\zahab\Desktop\Rendering\TransmittanceEffects\TransmittanceEffects\maths_funcs.cpp(459,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\zahab\Desktop\Rendering\TransmittanceEffects\TransmittanceEffects\maths_funcs.cpp(532,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\zahab\Desktop\Rendering\TransmittanceEffects\TransmittanceEffects\maths_funcs.cpp(533,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\zahab\Desktop\Rendering\TransmittanceEffects\TransmittanceEffects\maths_funcs.cpp(595,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\zahab\Desktop\Rendering\TransmittanceEffects\TransmittanceEffects\maths_funcs.cpp(596,35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\zahab\Desktop\Rendering\TransmittanceEffects\TransmittanceEffects\maths_funcs.cpp(597,35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\zahab\Desktop\Rendering\TransmittanceEffects\TransmittanceEffects\maths_funcs.cpp(598,35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\zahab\Desktop\Rendering\TransmittanceEffects\TransmittanceEffects\maths_funcs.cpp(603,43): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\zahab\Desktop\Rendering\TransmittanceEffects\TransmittanceEffects\maths_funcs.cpp(641,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\zahab\Desktop\Rendering\TransmittanceEffects\TransmittanceEffects\maths_funcs.cpp(667,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\zahab\Desktop\Rendering\TransmittanceEffects\TransmittanceEffects\maths_funcs.cpp(677,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\zahab\Desktop\Rendering\TransmittanceEffects\TransmittanceEffects\maths_funcs.cpp(678,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\zahab\Desktop\Rendering\TransmittanceEffects\TransmittanceEffects\maths_funcs.cpp(679,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  TransmittanceEffects.cpp
+C:\Users\zahab\Desktop\Rendering\TransmittanceEffects\TransmittanceEffects\TransmittanceEffects.cpp(75,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\zahab\Desktop\Rendering\TransmittanceEffects\TransmittanceEffects\TransmittanceEffects.cpp(76,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\zahab\Desktop\Rendering\TransmittanceEffects\TransmittanceEffects\TransmittanceEffects.cpp(77,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\zahab\Desktop\Rendering\TransmittanceEffects\TransmittanceEffects\TransmittanceEffects.cpp(208,25): warning C4838: conversion from 'FT_Pos' to 'unsigned int' requires a narrowing conversion
+C:\Users\zahab\Desktop\Rendering\TransmittanceEffects\TransmittanceEffects\TransmittanceEffects.cpp(528,56): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\zahab\Desktop\Rendering\TransmittanceEffects\TransmittanceEffects\TransmittanceEffects.cpp(538,56): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\zahab\Desktop\Rendering\TransmittanceEffects\TransmittanceEffects\TransmittanceEffects.cpp(547,56): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\zahab\Desktop\Rendering\TransmittanceEffects\TransmittanceEffects\TransmittanceEffects.cpp(564,56): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\zahab\Desktop\Rendering\TransmittanceEffects\TransmittanceEffects\TransmittanceEffects.cpp(574,56): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\zahab\Desktop\Rendering\TransmittanceEffects\TransmittanceEffects\TransmittanceEffects.cpp(583,56): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\zahab\Desktop\Rendering\TransmittanceEffects\TransmittanceEffects\TransmittanceEffects.cpp(600,56): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\zahab\Desktop\Rendering\TransmittanceEffects\TransmittanceEffects\TransmittanceEffects.cpp(612,56): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\zahab\Desktop\Rendering\TransmittanceEffects\TransmittanceEffects\TransmittanceEffects.cpp(615,12): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\zahab\Desktop\Rendering\TransmittanceEffects\TransmittanceEffects\TransmittanceEffects.cpp(622,56): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\zahab\Desktop\Rendering\TransmittanceEffects\TransmittanceEffects\TransmittanceEffects.cpp(625,12): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\zahab\Desktop\Rendering\TransmittanceEffects\TransmittanceEffects\TransmittanceEffects.cpp(632,56): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\zahab\Desktop\Rendering\TransmittanceEffects\TransmittanceEffects\TransmittanceEffects.cpp(653,56): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\zahab\Desktop\Rendering\TransmittanceEffects\TransmittanceEffects\TransmittanceEffects.cpp(659,14): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\zahab\Desktop\Rendering\TransmittanceEffects\TransmittanceEffects\TransmittanceEffects.cpp(660,14): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\zahab\Desktop\Rendering\TransmittanceEffects\TransmittanceEffects\TransmittanceEffects.cpp(661,14): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\zahab\Desktop\Rendering\TransmittanceEffects\TransmittanceEffects\TransmittanceEffects.cpp(671,56): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\zahab\Desktop\Rendering\TransmittanceEffects\TransmittanceEffects\TransmittanceEffects.cpp(674,14): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\zahab\Desktop\Rendering\TransmittanceEffects\TransmittanceEffects\TransmittanceEffects.cpp(675,14): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\zahab\Desktop\Rendering\TransmittanceEffects\TransmittanceEffects\TransmittanceEffects.cpp(676,14): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\zahab\Desktop\Rendering\TransmittanceEffects\TransmittanceEffects\TransmittanceEffects.cpp(686,56): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\zahab\Desktop\Rendering\TransmittanceEffects\TransmittanceEffects\TransmittanceEffects.cpp(689,14): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\zahab\Desktop\Rendering\TransmittanceEffects\TransmittanceEffects\TransmittanceEffects.cpp(690,14): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\zahab\Desktop\Rendering\TransmittanceEffects\TransmittanceEffects\TransmittanceEffects.cpp(691,14): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\zahab\Desktop\Rendering\TransmittanceEffects\TransmittanceEffects\TransmittanceEffects.cpp(701,56): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\zahab\Desktop\Rendering\TransmittanceEffects\TransmittanceEffects\TransmittanceEffects.cpp(707,14): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\zahab\Desktop\Rendering\TransmittanceEffects\TransmittanceEffects\TransmittanceEffects.cpp(708,14): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\zahab\Desktop\Rendering\TransmittanceEffects\TransmittanceEffects\TransmittanceEffects.cpp(709,14): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\zahab\Desktop\Rendering\TransmittanceEffects\TransmittanceEffects\TransmittanceEffects.cpp(719,56): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\zahab\Desktop\Rendering\TransmittanceEffects\TransmittanceEffects\TransmittanceEffects.cpp(722,14): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\zahab\Desktop\Rendering\TransmittanceEffects\TransmittanceEffects\TransmittanceEffects.cpp(723,14): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\zahab\Desktop\Rendering\TransmittanceEffects\TransmittanceEffects\TransmittanceEffects.cpp(724,14): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\zahab\Desktop\Rendering\TransmittanceEffects\TransmittanceEffects\TransmittanceEffects.cpp(734,56): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\zahab\Desktop\Rendering\TransmittanceEffects\TransmittanceEffects\TransmittanceEffects.cpp(737,14): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\zahab\Desktop\Rendering\TransmittanceEffects\TransmittanceEffects\TransmittanceEffects.cpp(738,14): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\zahab\Desktop\Rendering\TransmittanceEffects\TransmittanceEffects\TransmittanceEffects.cpp(739,14): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\zahab\Desktop\Rendering\TransmittanceEffects\TransmittanceEffects\TransmittanceEffects.cpp(749,56): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\zahab\Desktop\Rendering\TransmittanceEffects\TransmittanceEffects\TransmittanceEffects.cpp(755,14): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\zahab\Desktop\Rendering\TransmittanceEffects\TransmittanceEffects\TransmittanceEffects.cpp(756,14): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\zahab\Desktop\Rendering\TransmittanceEffects\TransmittanceEffects\TransmittanceEffects.cpp(757,14): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\zahab\Desktop\Rendering\TransmittanceEffects\TransmittanceEffects\TransmittanceEffects.cpp(767,56): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\zahab\Desktop\Rendering\TransmittanceEffects\TransmittanceEffects\TransmittanceEffects.cpp(770,14): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\zahab\Desktop\Rendering\TransmittanceEffects\TransmittanceEffects\TransmittanceEffects.cpp(771,14): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\zahab\Desktop\Rendering\TransmittanceEffects\TransmittanceEffects\TransmittanceEffects.cpp(772,14): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\zahab\Desktop\Rendering\TransmittanceEffects\TransmittanceEffects\TransmittanceEffects.cpp(782,56): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\zahab\Desktop\Rendering\TransmittanceEffects\TransmittanceEffects\TransmittanceEffects.cpp(785,14): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\zahab\Desktop\Rendering\TransmittanceEffects\TransmittanceEffects\TransmittanceEffects.cpp(786,14): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\zahab\Desktop\Rendering\TransmittanceEffects\TransmittanceEffects\TransmittanceEffects.cpp(787,14): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\zahab\Desktop\Rendering\TransmittanceEffects\TransmittanceEffects\TransmittanceEffects.cpp(797,56): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  Generating Code...
+C:\Users\zahab\Desktop\Rendering\TransmittanceEffects\TransmittanceEffects\TransmittanceEffects.cpp(216): warning C4715: 'createFont': not all control paths return a value
+freetyped.lib(ftinit.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'freetyped.lib(ftinit.obj)' or at 'C:\Users\zahab\Desktop\Rendering\TransmittanceEffects\x64\Debug\freetype.pdb'; linking object as if no debug info
+freetyped.lib(ftbase.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'freetyped.lib(ftbase.obj)' or at 'C:\Users\zahab\Desktop\Rendering\TransmittanceEffects\x64\Debug\freetype.pdb'; linking object as if no debug info
+freetyped.lib(autofit.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'freetyped.lib(autofit.obj)' or at 'C:\Users\zahab\Desktop\Rendering\TransmittanceEffects\x64\Debug\freetype.pdb'; linking object as if no debug info
+freetyped.lib(truetype.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'freetyped.lib(truetype.obj)' or at 'C:\Users\zahab\Desktop\Rendering\TransmittanceEffects\x64\Debug\freetype.pdb'; linking object as if no debug info
+freetyped.lib(type1.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'freetyped.lib(type1.obj)' or at 'C:\Users\zahab\Desktop\Rendering\TransmittanceEffects\x64\Debug\freetype.pdb'; linking object as if no debug info
+freetyped.lib(cff.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'freetyped.lib(cff.obj)' or at 'C:\Users\zahab\Desktop\Rendering\TransmittanceEffects\x64\Debug\freetype.pdb'; linking object as if no debug info
+freetyped.lib(type1cid.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'freetyped.lib(type1cid.obj)' or at 'C:\Users\zahab\Desktop\Rendering\TransmittanceEffects\x64\Debug\freetype.pdb'; linking object as if no debug info
+freetyped.lib(pfr.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'freetyped.lib(pfr.obj)' or at 'C:\Users\zahab\Desktop\Rendering\TransmittanceEffects\x64\Debug\freetype.pdb'; linking object as if no debug info
+freetyped.lib(type42.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'freetyped.lib(type42.obj)' or at 'C:\Users\zahab\Desktop\Rendering\TransmittanceEffects\x64\Debug\freetype.pdb'; linking object as if no debug info
+freetyped.lib(winfnt.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'freetyped.lib(winfnt.obj)' or at 'C:\Users\zahab\Desktop\Rendering\TransmittanceEffects\x64\Debug\freetype.pdb'; linking object as if no debug info
+freetyped.lib(pcf.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'freetyped.lib(pcf.obj)' or at 'C:\Users\zahab\Desktop\Rendering\TransmittanceEffects\x64\Debug\freetype.pdb'; linking object as if no debug info
+freetyped.lib(psaux.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'freetyped.lib(psaux.obj)' or at 'C:\Users\zahab\Desktop\Rendering\TransmittanceEffects\x64\Debug\freetype.pdb'; linking object as if no debug info
+freetyped.lib(psnames.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'freetyped.lib(psnames.obj)' or at 'C:\Users\zahab\Desktop\Rendering\TransmittanceEffects\x64\Debug\freetype.pdb'; linking object as if no debug info
+freetyped.lib(pshinter.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'freetyped.lib(pshinter.obj)' or at 'C:\Users\zahab\Desktop\Rendering\TransmittanceEffects\x64\Debug\freetype.pdb'; linking object as if no debug info
+freetyped.lib(raster.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'freetyped.lib(raster.obj)' or at 'C:\Users\zahab\Desktop\Rendering\TransmittanceEffects\x64\Debug\freetype.pdb'; linking object as if no debug info
+freetyped.lib(sfnt.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'freetyped.lib(sfnt.obj)' or at 'C:\Users\zahab\Desktop\Rendering\TransmittanceEffects\x64\Debug\freetype.pdb'; linking object as if no debug info
+freetyped.lib(smooth.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'freetyped.lib(smooth.obj)' or at 'C:\Users\zahab\Desktop\Rendering\TransmittanceEffects\x64\Debug\freetype.pdb'; linking object as if no debug info
+freetyped.lib(bdf.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'freetyped.lib(bdf.obj)' or at 'C:\Users\zahab\Desktop\Rendering\TransmittanceEffects\x64\Debug\freetype.pdb'; linking object as if no debug info
+freetyped.lib(ftsystem.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'freetyped.lib(ftsystem.obj)' or at 'C:\Users\zahab\Desktop\Rendering\TransmittanceEffects\x64\Debug\freetype.pdb'; linking object as if no debug info
+freetyped.lib(ftgzip.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'freetyped.lib(ftgzip.obj)' or at 'C:\Users\zahab\Desktop\Rendering\TransmittanceEffects\x64\Debug\freetype.pdb'; linking object as if no debug info
+freetyped.lib(ftlzw.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'freetyped.lib(ftlzw.obj)' or at 'C:\Users\zahab\Desktop\Rendering\TransmittanceEffects\x64\Debug\freetype.pdb'; linking object as if no debug info
+freetyped.lib(ftbitmap.obj) : warning LNK4099: PDB 'freetype.pdb' was not found with 'freetyped.lib(ftbitmap.obj)' or at 'C:\Users\zahab\Desktop\Rendering\TransmittanceEffects\x64\Debug\freetype.pdb'; linking object as if no debug info
+  TransmittanceEffects.vcxproj -> C:\Users\zahab\Desktop\Rendering\TransmittanceEffects\x64\Debug\TransmittanceEffects.exe
